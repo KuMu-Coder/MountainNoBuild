@@ -1,0 +1,7 @@
+name: MountainNoBuild
+version: '1.0-SNAPSHOT'
+main: qq3643203568.mountainNoBuild.MountainNoBuild
+api-version: '1.20'
+commands:
+  nobuild:
+    default: op

@@ -1,0 +1,16 @@
+BreakMessage: '&7[&bMountainNoBuild&7]&4当前世界禁止破坏'
+ReloadMessage: '&7[&bMountainNoBuild&7]&4配置文件重载成功'
+NoOpMessage: '&7[&bMountainNoBuild&7]&4你没有权限执行此命令'
+NullMessage: '&7[&bMountainNoBuild&7]&4未知子命令'
+NoPlayerMessage: '&7[&bMountainNoBuild&7]&4此命令只能由玩家执行'
+HelpMessage: |-
+  &7————&bMountainNoBuild&7————
+  &a/nobuild reload 重载配置文件
+  &a/nobuild add 添加当前世界至不可破坏与放置列表
+  &a/nobuild remove 从列表中移除当前世界
+  &7————————————————————————
+AddInListMessage: '&7[&bMountainNoBuild&7]&4当前世界已存在于列表内'
+RemoveWorldMessage: '&7[&bMountainNoBuild&7]&4成功从列表中移除该世界'
+RemoveInListMessage: '&7[&bMountainNoBuild&7]&4该世界不存在于列表中'
+AddWorldMessage: '&7[&bMountainNoBuild&7]&4成功添加该世界到列表中'
+PlaceMessage: '&4当前世界禁止放置'
