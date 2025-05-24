@@ -28,7 +28,6 @@ public class NoBuildCommand implements CommandExecutor {
                     case "add":
                         String world = p.getWorld().getName();
                         MountainStatic.addWorld(p,world);
-                        sendInfo(p,"AddWorldMessage");
                         break;
                     case "remove":
                         world = p.getWorld().getName();

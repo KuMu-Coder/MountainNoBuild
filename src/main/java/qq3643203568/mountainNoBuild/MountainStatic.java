@@ -146,6 +146,7 @@ public class MountainStatic {
         worlds.add(world);
         plugin.getConfig().set("ListenerWorld",worlds);
         plugin.saveConfig();
+        sendInfo(p,"AddWorldMessage");
     }
     //从黑名单列表中移除世界
     public static void removeWorld(Player p,String world){
